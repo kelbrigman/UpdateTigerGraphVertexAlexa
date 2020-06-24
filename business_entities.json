@@ -1,0 +1,16 @@
+{
+    "vertices": {
+        "business_entity": {
+            "17735": {
+                "entity_type" : { "value" : "company" },
+                "entity_name" : { "value" : "Kam_Air" },
+                "url" : { "value" : "http://dbpedia.org/resource/Kam_Air" }
+            },
+            "878253": {
+                "entity_type" : { "value" : "university" },
+                "entity_name" : { "value" : "Belarusian_National_Technical_University" },
+                "url" : { "value" : "http://dbpedia.org/resource/Belarusian_National_Technical_University" }
+            }
+        }
+    }
+}
